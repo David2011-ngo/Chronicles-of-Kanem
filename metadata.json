@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Battle Royale 3D",
+  "description": "50-Player 3D survival shooter on Bermuda Island featuring third-person combat, instant Gloo Walls, active character skills, iconic weapons, shrinking safe zones, and Booyah victories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
